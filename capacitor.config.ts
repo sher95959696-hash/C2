@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   appId: 'com.razorsedge.ltd', 
   
   // Name displayed under the icon
-  appName: 'Razor's Edge Ltd', 
+  appName: "Razor's Edge Ltd", 
   
   webDir: 'dist',
   server: {
