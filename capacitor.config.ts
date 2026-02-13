@@ -3,10 +3,10 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   // UNIQUE App ID for the client
-  appId: 'com.barberpro.elite', 
+  appId: 'com.Razor's Edge Ltd', 
   
   // Name displayed under the icon
-  appName: 'Abrar Hair Salon', 
+  appName: 'Razor's Edge Ltd', 
   
   webDir: 'dist',
   server: {
