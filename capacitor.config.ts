@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   // UNIQUE App ID for the client
-  appId: 'com.Razor's Edge Ltd', 
+  appId: 'com.RazorsEdge.Ltd', 
   
   // Name displayed under the icon
   appName: 'Razor's Edge Ltd', 
